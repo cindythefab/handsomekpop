@@ -338,7 +338,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Mingyu",
-    img: "iMJskag.jpg",
+    img: "hT6YfdV.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
