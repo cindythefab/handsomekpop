@@ -1,4 +1,4 @@
-dataSetVersion = "2019-04-09"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2019-04-11"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -234,7 +234,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tao",
-    img: "y2AyAOo.jpg",
+    img: "aIS4Dkb.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -250,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Chanyeol",
-    img: "HXjV6Mv.jpg",
+    img: "wsQsSQC.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -282,7 +282,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wooseok",
-    img: "rP3C11h.jpg",
+    img: "wSYa71G.jpg",
     opts: {
       series: [ "IDOL" ],
       stage: []
